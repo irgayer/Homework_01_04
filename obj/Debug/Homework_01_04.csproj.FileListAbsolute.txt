@@ -1,0 +1,9 @@
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\bin\Debug\database.mdf
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\bin\Debug\database_log.ldf
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\bin\Debug\Homework_01_04.exe.config
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\bin\Debug\Homework_01_04.exe
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\bin\Debug\Homework_01_04.pdb
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\obj\Debug\Homework_01_04.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\obj\Debug\Homework_01_04.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\obj\Debug\Homework_01_04.exe
+C:\Users\ИргалиевЕ\source\repos\Homework_01_04\obj\Debug\Homework_01_04.pdb
